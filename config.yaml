@@ -1,10 +1,10 @@
 
 #openai
-api_key: "sk-MU84NXm5WbkPKYieAfAbF89936C7451d8e06Dc3448F9F7F0"  # 确保这里放的是正确的API密钥
-base_url: "https://api.aiskt.com/v1"
+api_key: "sk-MU84NXm********7451d8e06Dc3448F9F7F0"  # 确保这里放的是正确的API密钥
+base_url: "https://api.****.com/v1"
 model: "gpt-4o-2024-05-13"
 
 #deepseek
-#api_key: "sk-359d0dcecc454db392078f1ec5294a36"  # 确保这里放的是正确的API密钥
+#api_key: "sk-359d0dc*********78f1ec5294a36"  # 确保这里放的是正确的API密钥
 #base_url: "https://api.deepseek.com/v1"
 #model: "deepseek-chat"

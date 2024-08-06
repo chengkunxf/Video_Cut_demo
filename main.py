@@ -7,7 +7,7 @@ import os
 def main():
     scripts = [
         "del_file.py",
-        "requests_srt.py",
+        "requests_srt.py", #如果Data\Srt_Json存在符合格式的json文件，测试时可以将此模块注释掉运行
         "srt_ex.py",
         "token_cut.py",
         "video_ans_1.py",
